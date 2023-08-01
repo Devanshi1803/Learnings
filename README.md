@@ -16,6 +16,6 @@ This Repository contains my learning of new technology.
 4) IDE- integrated development environment<br>
     It allows you to write code, compile it, run it or debug it 
 
-5) [JDK/JVM/JRE?](https://www.digitalocean.com/community/tutorials/difference-jdk-vs-jre-vs-jvm)
+5) [JDK/JVM/JRE?](https://www.geeksforgeeks.org/difference-between-jdk-and-jre-in-java/)
    
    
