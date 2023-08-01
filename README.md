@@ -13,6 +13,6 @@ This Repository contains my learning of new technology.
 3) Composable code?<br>
     Instead of writing all the code in one single file, write it in different reusable components.This design pattern allows one     to build applications more quickly and easily
 
-4) IDE- integrated development environment
+4) IDE- integrated development environment<br>
     It allows you to write code, compile it, run it or debug it  
    
