@@ -19,5 +19,9 @@ This Repository contains my learning of new technology.
 5) [JDK/JVM/JRE?](https://www.geeksforgeeks.org/difference-between-jdk-and-jre-in-java/)
 
 6) [jshell?](https://www.geeksforgeeks.org/jshell-java-9-new-feature/)
+
+7) Java is  platform-independent(WORA-> write once, run anywhere) language, but JVM is platform-dependent. So, we need to convert Java code to byte code(.class file when you compile your .java file) as JVM understands byte code. Java compiler converts Java code to byte code and gives it to JVM. JVM runs the project based on file dependencies but will start running code from the file having main method of specific signature(public static void main(string args[])). 
+<br>
+To run Java code written on your machine to others, you will only need JVM+libraries i.e., JRE.. you don't need JDK compulsory.   
    
    
