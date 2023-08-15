@@ -21,6 +21,15 @@ This Repository contains my learning of new technology.
 6) [jshell?](https://www.geeksforgeeks.org/jshell-java-9-new-feature/)
 
 7) Java is  platform-independent(WORA-> write once, run anywhere) language, but JVM is platform-dependent. So, we need to convert Java code to byte code(.class file when you compile your .java file) as JVM understands byte code. Java compiler converts Java code to byte code and gives it to JVM. JVM runs the project based on file dependencies but will start running code from the file having main method of specific signature(public static void main(string args[])). \
-    To run Java code written on your machine to others, you will only need JVM+libraries i.e., JRE(this we install on top of OS).. you don't need JDK compulsory.   
+    To run Java code written on your machine to others, you will only need JVM+libraries i.e., JRE(this we install on top of OS).. you don't need JDK compulsory.
+
+8) ## Static Site Generation (SSG) in Astro
+
+Static Site Generation (SSG) within the Astro framework involves the pre-generation of web pages as static HTML during the build process. This results in rapid page loading times and improved search engine optimization (SEO). By generating content ahead of time, server processing during user visits is minimized, enhancing overall performance. The SSG approach emphasizes efficiency and optimized caching mechanisms.
+
+## Server-Side Rendering (SSR) in Astro
+
+Server-Side Rendering (SSR) in Astro dynamically generates HTML for each individual user request. This capability enables the delivery of personalized content and real-time updates. With SSR, the server processes data and provides users with up-to-date web pages, making it particularly useful for scenarios where content requires frequent changes or customization. The SSR strategy ensures that content remains current and tailored to user needs.
+
    
    
